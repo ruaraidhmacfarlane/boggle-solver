@@ -13,5 +13,6 @@ There is 3 different boggle solvers:
 
 ## Compiling & Running
 
-run ```make```
+run ```make``` 
+
 run ```./boggle arg``` (arg is 1,2,3 depending on what boggle solver you wish to run)
